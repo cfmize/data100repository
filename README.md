@@ -6,9 +6,13 @@ I am a freshman living on campus in Camm Hall. I have lived in NOVA for the prev
 
 I enjoy playing a variety of sports. Mainly I play soccer and volleyball but I also snowboard and surf when I get the opportunity. Recently, I have just been working out and running since it’s much harder to play organized sports. I also enjoy playing video games.
 
-#Getting Started With R
+##Informal Responses
 
-[Challenge Problem](challengeproblem.md)
+Getting Started With R: Challenge Problem
+
+![GitHub Logo](challengeproblem.Rhistory)
+
+
 
 
 
