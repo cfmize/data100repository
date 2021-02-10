@@ -1,5 +1,10 @@
-Chris Mize's Wicked Problems Repository
+Hello World! 
 
-Description about me
+I am a freshman living on campus in Camm Hall. I have lived in NOVA for the previous seven years. Prior to that I lived in North Yorkshire, England. I lived there for 5 years after moving from Hawaii when I was 6. 
 
-Link challenge
+I enjoy playing a variety of sports. Mainly I play soccer and volleyball but I also snowboard and surf when I get the opportunity. Recently, I have just been working out and running since it’s much harder to play organized sports. I also enjoy playing video games.
+
+
+
+
+
