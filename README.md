@@ -10,7 +10,7 @@ I enjoy playing a variety of sports. Mainly I play soccer and volleyball but I a
 
 Getting Started With R: Challenge Problem
 
-![GitHub Logo](challengeproblem.Rhistory)
+![](challengeproblem.Rhistory)
 
 
 
