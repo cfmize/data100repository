@@ -8,7 +8,7 @@ I enjoy playing a variety of sports. Mainly I play soccer and volleyball but I a
 
 #Getting Started With R
 
-[Challenge Problem](ChallengeProblem.md)
+[Challenge Problem](challengeproblem.md)
 
 
 
