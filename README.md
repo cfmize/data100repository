@@ -12,6 +12,8 @@ Getting Started With R: Challenge Problem
 
 ![](challengeproblem.png)
 
+[Informal Response 1](InformalResponse1.md)
+
 
 
 
