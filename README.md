@@ -12,7 +12,6 @@ I enjoy playing a variety of sports. Mainly I play soccer and volleyball but I a
 
 ![](challengeproblem.png)
 
-### Project 1
 
 [Project 1](Project1.md)
 
