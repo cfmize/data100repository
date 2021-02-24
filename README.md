@@ -14,9 +14,7 @@ I enjoy playing a variety of sports. Mainly I play soccer and volleyball but I a
 
 ### Project 1
 
-Map of Albania displaying administrative subdivisions
-
-![](albania.png)
+[Project 1](Project1.md)
 
 ## Informal Responses
 
