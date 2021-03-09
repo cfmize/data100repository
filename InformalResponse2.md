@@ -20,4 +20,6 @@ entire ecosystems. He managed to discover thousands of unkown bacteria and other
 in the data. This emphasizes the importance of collaborating with experts in the field of study. While Venter's discovery was important, it is not very useful without people to 
 interpret what those species are. 
 
-  
+  Big Data is much harder to apply to understanding human behavior and development. While most sciences use mostly quantitative data, the humanities require a much more nuanced 
+approach to its implementation. Humans are very complex and do not behave in predictable ways, so solely looking at data can lead to a reductionist viewpoint, lacking economical,
+political, or historical data. This again emphasizes the importance of working with experts in the field of study to find uses which are more targeted to a certain problem. 
