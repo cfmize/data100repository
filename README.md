@@ -23,6 +23,8 @@ I enjoy playing a variety of sports. Mainly I play soccer and volleyball but I a
 
 [Informal Response 2](InformalResponse2.md)
 
+[Informal Response 3](InformalResponse3.md)
+
 
 
 
