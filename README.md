@@ -19,6 +19,8 @@ I enjoy playing a variety of sports. Mainly I play soccer and volleyball but I a
 
 [Project 3](Project3.md)
 
+[Project 4](Project4.md)
+
 ## Informal Responses
 
 [Informal Response 1](InformalResponse1.md)
