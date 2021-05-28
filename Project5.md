@@ -30,4 +30,6 @@ The total population of the combined adm2s is 994,583 and there are 8 individual
 
 ## Accessibility 3
 
-![](final.png)
+![](P5Final.png)
+
+The biggest urban areas are located on the edges of the mountain ranges. Also, there are very few roads and healthcare facilites going through the mountain ranges. It is not surprising that the urban areas and roads are built around the mountains since it would be extremely difficult to do large construction projects in those conditions. 
